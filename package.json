@@ -1,0 +1,13 @@
+{
+  "name": "desktop-microduck-repo",
+  "private": true,
+  "scripts": {
+    "page": "python3 tools/make_page.py",
+    "start": "electron app",
+    "package": "node tools/package.js"
+  },
+  "devDependencies": {
+    "electron": "45.0.0",
+    "@electron/packager": "^18.0.0"
+  }
+}

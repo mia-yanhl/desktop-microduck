@@ -1,0 +1,8 @@
+node_modules/
+dist/
+pack/
+test/
+tools/rcodesign*
+.DS_Store
+tools/add_tour.py
+tools/figure.before-tour.html

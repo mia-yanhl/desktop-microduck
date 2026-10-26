@@ -1,0 +1,9 @@
+{
+  "name": "desktop-microduck",
+  "productName": "Desktop Microduck",
+  "version": "0.1.0",
+  "description": "A little robot duck that walks around your Mac desktop. Drawn in the Colorfigures style, modelled on Pollen Robotics' open-source Microduck.",
+  "main": "main.js",
+  "license": "MIT",
+  "author": "Huilin Yan"
+}
