@@ -9,7 +9,7 @@ It is drawn in the hand-inked [Colorfigures](https://april-zhu.com/colorfigures)
 ## Two ways to play
 
 - **Desktop pets** (Mac app): a flock of ducks wandering over your desktop. See *Install* below.
-- **Play, Inside and Build** (web page, any computer or phone): one big duck you can drive, open up chapter by chapter, and take apart and build step by step. Download [`web/index.html`](web/index.html) and open it in your browser. It is one self-contained file and works offline, nothing to install.
+- **Play, Inside and Build** (web page, any computer or phone): one big duck you can drive, open up chapter by chapter, and take apart and build step by step. **[Open it in your browser →](https://mia-yanhl.github.io/desktop-microduck/)** Or download [`web/index.html`](web/index.html): it is one self-contained file and works offline.
 
 ## Install the desktop pets
 
